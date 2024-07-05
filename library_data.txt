@@ -1,0 +1,14 @@
+101,The Alchemist,Paulo Coelho,0,,N/A,0
+102,The Great Gatsby,Scott Fitzgerald,0,,N/A,0
+103,Brave New World,Aldous Huxley,1,William,2024-07-18,3
+104,To the Lighthouse,Virginia Woolf,1,Emma,2024-07-18,1
+105,The Hobbit,J.R.R. Tolkien,1,Mohit,2024-07-18,2
+106,1984,George Orwell,1,James,2024-07-19,1
+108,Little Women,Louisa M. Alcott,0,,N/A,3
+109,Harry Potter,J.K. Rowling,1,James,2024-07-18,1
+110,Atomic Habits,James Clear,1,Olivia,2024-07-18,2
+111,Moby-Dick,Herman Melville,0,,N/A,0
+112,One Piece,Eiichiro Oda,1,Mohit,2024-07-18,1
+113,Attack on Titan,Hajime Isayama,0,,N/A,2
+114,The Shining,Stephen King,0,,N/A,0
+115,Tokyo Ghoul,Sui Ishida,0,,N/A,0
