@@ -8,7 +8,6 @@
 #include <iomanip>
 #include <limits>
 
-using namespace std;
 
 class Book {
 public:
